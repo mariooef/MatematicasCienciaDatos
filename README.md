@@ -5,8 +5,13 @@ Repositorio para los trabajos de ciencia de datos
 
 ## Enlaces del proyecto por equipo
 
-https://www.kaggle.com/code/marioef/red-neuronal-prediccion-errores-dev-software?scriptVersionId=132725062
+Enlace para a estadistica previa del archivo del dataset con el que trabajamos para el entramiento y prueba de la red neuronal.
+> https://colab.research.google.com/drive/1LHfGFd3TAA6lHdMJVbxNWJbwHNZgE4zY?usp=sharing
 
-https://colab.research.google.com/drive/1nqYtgMWJCFrsNShW0i0ZkOO8llPvsJuh#scrollTo=8fUs2GceTk0u
+> https://www.kaggle.com/code/marioef/red-neuronal-prediccion-errores-dev-software
+
+> https://colab.research.google.com/drive/1nqYtgMWJCFrsNShW0i0ZkOO8llPvsJuh?usp=sharing
+
+
 
 
