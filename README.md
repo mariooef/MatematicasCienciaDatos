@@ -9,6 +9,8 @@ El proyecto individual está en un archivo html llamado Actividad-Indivual-Mario
 
 también paso el enlace para verlo directamente en un proyecto de colab
 > https://colab.research.google.com/drive/1csJQ1o86mQ8LtD6vHVgG_hucLTaLAUjp?usp=sharing
+> https://drive.google.com/file/d/1HoilVR3kraG2G52F-UCtsqwRg6dX0gph/view?usp=sharing
+> https://drive.google.com/file/d/1eaIdRCs_Wa7FvjmXEIgZhclkwpYUN34V/view?usp=sharing
 
 ## Enlaces del proyecto por equipo
 
@@ -78,6 +80,7 @@ Enlace donde se ubica los resultados del entrenamiento de la red neuronal, por m
 
 Enlace de la presentación del proyecto
 > https://gamma.app/docs/PrediccionErroresDevSoftwareRedNeuronal-hbkuv1bsf1si3kf?mode=doc
+> https://drive.google.com/file/d/1d58xwdQxwgYME6TmrCwQGux472_R9fak/view?usp=sharing
 
 
 
