@@ -40,7 +40,7 @@ El trabajo en equipo constato en la realización del proyecto para entrenar y pr
 > F1-score
 
 #### Variables
-** Características de entrada (X): **
+**Características de entrada (X):**
 
 * loc: Recuento numérico de líneas de código de McCabe.
 * v(g): Complejidad ciclomática de McCabe.
@@ -59,7 +59,8 @@ El trabajo en equipo constato en la realización del proyecto para entrenar y pr
 * lOBlank: Recuento de líneas en blanco de Halstead.
 * lOCodeAndComment: Recuento de líneas de código y comentarios de Halstead.
 
-** Etiqueta objetivo (y): **
+**Etiqueta objetivo (y):**
+
 defects: Variable binaria que indica si el módulo tiene o no defectos reportados (false: no tiene defectos, true: tiene defectos).
 
 Se puede observar que existen dos enlaces para distintos entrenamientos y pruebas con distintos algoritmos, solo para ver la viabilidad de los datos y comparar resultados.
